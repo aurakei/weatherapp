@@ -1,3 +1,6 @@
+In the project, there is use of GeoDb Cities API from rapid API.
+For the weather information used, Open Weathe API was the best fit. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
