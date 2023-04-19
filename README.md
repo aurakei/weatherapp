@@ -1,5 +1,5 @@
 In the project, there is use of GeoDb Cities API from rapid API.
-For the weather information used, Open Weathe API was the best fit. 
+For the weather information used, Open Weather API was the best fit. 
 
 # Getting Started with Create React App
 
